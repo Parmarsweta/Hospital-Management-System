@@ -1,4 +1,5 @@
-<h1>Defintion :- hospital management system</h1>
+<h1>Defintion</h1>
+<h4>hospital management system</h4>
 <h2>descripton </h2> 
 In hospital management system include indoor patient. main roles in admin, doctor and staff. admin can add      doctor and manage staff details. staff can register patient and store patient details. Doctor can manage treatment           details of admitted patient and staff will manage payment details. patient one time registration but multi time admit    
     the hospital and manager the bad, room, roomtype, medicineallocation manage the staff.  
