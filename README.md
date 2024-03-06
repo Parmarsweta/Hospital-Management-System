@@ -3,7 +3,7 @@
     the hospital and manager the bad, room, roomtype, medicineallocation manage the staff.   
    
 
--- panel 1 : adminlogin
+-- panel 1 : adminlogin 
 -- http://127.0.0.1:8000/adminlogin
 -- username : admin
 -- password : admin
@@ -16,9 +16,6 @@
 -- panel 3 : stafflogin
 -- http://127.0.0.1:8000/stafflogin
 -- email : mohit@gamil.com
--- password : 12345
-
-
-
+-- password : 12345  
 
 
