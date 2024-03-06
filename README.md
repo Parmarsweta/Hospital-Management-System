@@ -20,6 +20,7 @@
 <p>email : mohit@gamil.com</p>
 <p>password : 12345  </p>
 
-<img width="960" alt="1" src="https://github.com/Parmarsweta/Hospital-Management-System/assets/128351784/e11be94a-82b9-49ee-ba25-2c2e645b33d7">
+<h1>screen short</h1>
+<p align="center"><img width="960" alt="1" src="https://github.com/Parmarsweta/Hospital-Management-System/assets/128351784/e11be94a-82b9-49ee-ba25-2c2e645b33d7">
 
 
